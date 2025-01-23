@@ -2,7 +2,6 @@
 
 import { EnvelopeIcon, ShieldCheckIcon, SparklesIcon } from "@heroicons/react/16/solid";
 
-
 export default function Home() {
   return (
     <main className="min-w-full min-h-screen bg-gray-900 text-gray-200 flex flex-col items-center justify-center">
